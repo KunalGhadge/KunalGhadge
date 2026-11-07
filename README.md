@@ -7,23 +7,15 @@
 ## 📌 About Me
 - 🤖 Engineering student exploring AI/ML, AI agents, and building AI-powered applications.
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kunalghadge&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="kunalghadge's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalghadge&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="kunalghadge's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=kunalghadge&theme=nightowl&hide_border=true&cache_seconds=86400" alt="kunalghadge's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunalghadge&layout=compact&theme=nightowl&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kunalghadge&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" alt="Kunal's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kunalghadge&theme=nightowl&radius=10" alt="kunalghadge's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalghadge&layout=compact&theme=nightowl&hide_border=true&langs_count=6&cache_seconds=86400" alt="Most Used Languages" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -52,9 +44,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-  <!---->
-</div>
-
-<p align="center"><sub>Kunal · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
