@@ -18,13 +18,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunalghadge&layout=compact&theme=nightowl&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kunalghadge&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" alt="Kunal's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kunalghadge&theme=nightowl&radius=10" alt="kunalghadge's Activity Graph" />
-</p>
 
 ## 🛠️ Languages & Tools
 
@@ -57,4 +50,8 @@
   <!---->
 </div>
 
-<p align="center"><sub>Kunal · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+ 
+<p align="center">
+  <sub>Built with curiosity & ☕ by <a href="https://github.com/kunalghadge">Kunal</a> · Always learning, always building.</sub>
+</p>
+
